@@ -21,7 +21,15 @@
 // 	} else {
 // 		console.log("false");
 
-var myluckyNumbers = [17,23,45,20,3,48];
-var myfavoriteCars = ["mercedes", "lexus", "infiniti"];
+// var myleastfavoriteCars = ["volvo", "kia", "hyundai"];
+// var myfavoriteCars = ["mercedes", "lexus", "infiniti"];
 
-console.log (myluckyNumbers, myfavoriteCars);
+// console.log (myleastfavoriteCars, myfavoriteCars);
+
+// testing
+// "string" === "string"
+// true
+
+// 7 > 10
+// false
+
