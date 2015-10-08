@@ -33,3 +33,6 @@
 // 7 > 10
 // false
 
+function myCar(carName) {
+	return alert(carName);
+}  myCar("Mercedes")
